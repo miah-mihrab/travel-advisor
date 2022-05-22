@@ -1,0 +1,19 @@
+{
+  "name": "travel-advisor",
+  "version": "1.0.0",
+  "description": "Travel Advisor Project using rapid api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miah-mihrab/travel-advisor.git"
+  },
+  "author": "Mihrab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miah-mihrab/travel-advisor/issues"
+  },
+  "homepage": "https://github.com/miah-mihrab/travel-advisor#readme"
+}
