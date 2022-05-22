@@ -15,7 +15,7 @@ const App = () => {
                 <Place />
             </Grid>
             <Grid item xs={12} md={8}>
-                <Map />
+                <Map GOOGLE_MAP_API_KEY={process.env.REACT_APP_GOOGLE_MAP_API_KEY}/>
             </Grid>
         </Grid>
     </>;
